@@ -1,1 +1,1 @@
-Sol.As we didn’t hide the 2d mesh while using 3d mesh the elements were duplicated. Thus, the property not specified error was incurred. SPC ID-1 and Force ID-2 were are also used wrongly, DOF error occurred. 
+Sol. As we didn’t hide the 2d mesh while using 3d mesh the elements were duplicated. Thus, the property not specified error was incurred. SPC ID-1 and Force ID-2 were are also used wrongly, DOF error occurred. 
